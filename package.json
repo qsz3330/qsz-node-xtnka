@@ -1,0 +1,24 @@
+{
+    "name": "@qsz3330/qsz-node-xtnka",
+    "version": "1.0.0",
+    "description": "Convert to the text you want.",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/qsz3330/qsz-node-xtnka.git"
+    },
+    "keywords": [
+        "string",
+        "convert"
+    ],
+    "author": "qsz3330",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/qsz3330/qsz-node-xtnka/issues"
+    },
+    "homepage": "https://github.com/qsz3330/qsz-node-xtnka#readme",
+    "dependencies": {
+        "@vcvckw/convstr": "^1.0.11",
+        "@qsz3330/qsz-node-xtnka": "^1.0.0"
+    }
+}
